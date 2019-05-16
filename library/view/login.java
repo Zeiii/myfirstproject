@@ -79,12 +79,12 @@ public class login {
 		JLabel label_1 = new JLabel("\u4E2D\u4FE1");
 		label_1.setBounds(149, 13, 82, 90);
 		label_1.setForeground(Color.RED);
-		label_1.setFont(new Font("Î¢ÈíÑÅºÚ", Font.PLAIN, 41));
+		label_1.setFont(new Font("å¾®è½¯é›…é»‘", Font.PLAIN, 41));
 		frame.getContentPane().add(label_1);
 		
 		JLabel label = new JLabel("\u56FE\u4E66\u7BA1\u7406\u8F6F\u4EF6");
 		label.setBounds(237, 13, 252, 90);
-		label.setFont(new Font("Î¢ÈíÑÅºÚ", Font.PLAIN, 41));
+		label.setFont(new Font("å¾®è½¯é›…é»‘", Font.PLAIN, 41));
 		frame.getContentPane().add(label);
 		
 		textField = new JTextField();

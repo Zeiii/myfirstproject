@@ -43,7 +43,7 @@ public class MainWindow extends JFrame {
 		contentPane.setLayout(null);
 		
 		JLabel label = new JLabel("\u4E3B\u754C\u9762");
-		label.setFont(new Font("ËÎÌå", Font.PLAIN, 99));
+		label.setFont(new Font("å®‹ä½“", Font.PLAIN, 99));
 		label.setBounds(762, 36, 1906, 1007);
 		contentPane.add(label);
 		this.setExtendedState(JFrame.MAXIMIZED_BOTH);
